@@ -36,6 +36,6 @@ public class MainActivity extends AppCompatActivity {
         //final TextView resultView = findViewById(R.id.textView);
         int sum = numberOne + numberTwo;
         resultView.setText(Integer.toString(sum));
-        //calculator
+        
     }
 }
